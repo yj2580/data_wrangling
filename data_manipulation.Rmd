@@ -1,0 +1,19 @@
+---
+title: "datamanipulation"
+author: "yj2580"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+```
+
+## import datasets
+
+```{r}
+litters_data = 
+```
+
